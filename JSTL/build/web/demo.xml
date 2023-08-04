@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <sale>
+	<sales>
+		<region>north</region>
+		<employees>150</employees>
+		<amount>115000</amount>
+	</sales>
+	
+	<sales>
+		<region>south</region>
+		<employees>125</employees>
+		<amount> 95000</amount>
+	</sales>
+	
+	<sales>
+		<region>east</region>
+		<employees>325</employees>
+		<amount>265000</amount>
+	</sales>
+	
+	<sales>
+		<region>west</region>
+		<employees>215</employees>
+		<amount>30500</amount>
+	</sales>
+		
+</sale>
